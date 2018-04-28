@@ -1,0 +1,7 @@
+C:\Users\ereiv\source\repos\IrcBot\IrcBot\bin\Debug\IrcBot.exe.config
+C:\Users\ereiv\source\repos\IrcBot\IrcBot\bin\Debug\IrcBot.exe
+C:\Users\ereiv\source\repos\IrcBot\IrcBot\bin\Debug\IrcBot.pdb
+C:\Users\ereiv\source\repos\IrcBot\IrcBot\obj\Debug\IrcBot.csprojResolveAssemblyReference.cache
+C:\Users\ereiv\source\repos\IrcBot\IrcBot\obj\Debug\IrcBot.csproj.CoreCompileInputs.cache
+C:\Users\ereiv\source\repos\IrcBot\IrcBot\obj\Debug\IrcBot.exe
+C:\Users\ereiv\source\repos\IrcBot\IrcBot\obj\Debug\IrcBot.pdb
